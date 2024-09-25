@@ -7,6 +7,15 @@
 
     pip3 install -r requirements.txt 
 
+**Public Dataset**
+
+    Liver Lesion Diagnosis Challenge on Multi-phase MRI (LLD-MMRI2023)
+    https://github.com/LMMMEng/LLD-MMRI2023/tree/main
+
+**Private  Dataset**
+
+Please ask the author.
+
 **Train**
 
     bash do_train.sh
