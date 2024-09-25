@@ -17,7 +17,7 @@ Please ask the author.
 
 **Train**
 
-    bash do_train.sh
+    bash do_main.sh
 
 **Test**
 
