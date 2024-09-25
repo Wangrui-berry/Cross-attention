@@ -9,7 +9,7 @@
 
 **Public Dataset**
 
-    Liver Lesion Diagnosis Challenge on Multi-phase MRI (LLD-MMRI2023)
+Liver Lesion Diagnosis Challenge on Multi-phase MRI (LLD-MMRI2023)
     https://github.com/LMMMEng/LLD-MMRI2023/tree/main
 
 **Private  Dataset**
